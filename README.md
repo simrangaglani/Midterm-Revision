@@ -10,15 +10,15 @@ Midterm 1 revision assignment
 
 ## Before running the program, please download:
 
-install.packages("tidyquant")
-install.packages("tidyverse")
-install.packages("timetk")
-install.packages("openxlsx")
+- install.packages("tidyquant")
+- install.packages("tidyverse")
+- install.packages("timetk")
+- install.packages("openxlsx")
 
-{library(tidyquant)
-library(tidyverse)
-library(timetk)
-library(openxlsx)}
+- {library(tidyquant)
+- library(tidyverse)
+- library(timetk)
+- library(openxlsx)}
 
 ## Excel File:
 
