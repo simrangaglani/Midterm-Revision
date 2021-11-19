@@ -20,3 +20,9 @@ Midterm 1 revision assignment
 ## Excel File:
 
 - Save and use the excel file to observe data population
+
+## Revisions:
+
+- Eliminated error message associated with data tables 
+- Created more consice code 
+- Labeled important financial metrics 
