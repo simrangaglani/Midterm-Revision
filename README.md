@@ -15,10 +15,7 @@ Midterm 1 revision assignment
 - install.packages("timetk")
 - install.packages("openxlsx")
 
-- {library(tidyquant)
-- library(tidyverse)
-- library(timetk)
-- library(openxlsx)}
+- [library(tidyquant), library(tidyverse), library(timetk), library(openxlsx)]
 
 ## Excel File:
 
